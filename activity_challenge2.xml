@@ -8,84 +8,84 @@
     tools:context="com.khalidelfaker.kaliplayer.challenge2Activity">
 
     <View
-        android:id="@+id/linearLayout39"
+        android:id="@+id/View39"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_below="@+id/linearLayout37"
-        android:layout_alignLeft="@+id/linearLayout36"
-        android:layout_alignStart="@+id/linearLayout36">
+        android:layout_below="@+id/View37"
+        android:layout_alignLeft="@+id/View36"
+        android:layout_alignStart="@+id/View36">
 
     </View>
 
     <View
-        android:id="@+id/linearLayout37"
+        android:id="@+id/View37"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_alignTop="@+id/linearLayout36"
-        android:layout_toEndOf="@+id/linearLayout36"
-        android:layout_toRightOf="@+id/linearLayout36"
+        android:layout_alignTop="@+id/View36"
+        android:layout_toEndOf="@+id/View36"
+        android:layout_toRightOf="@+id/View36"
         android:background="@android:color/background_dark"
         android:orientation="horizontal">
 
     </View>
 
     <View
-        android:id="@+id/linearLayout36"
+        android:id="@+id/View36"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_alignLeft="@+id/linearLayout20"
-        android:layout_alignStart="@+id/linearLayout20"
-        android:layout_alignTop="@+id/linearLayout25"
+        android:layout_alignLeft="@+id/View20"
+        android:layout_alignStart="@+id/View20"
+        android:layout_alignTop="@+id/view25"
         android:background="@android:color/background_dark"
         android:orientation="horizontal">
 
     </View>
 
     <View
-        android:id="@+id/linearLayout38"
+        android:id="@+id/view38"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_alignTop="@+id/linearLayout32"
-        android:layout_toLeftOf="@+id/linearLayout33"
-        android:layout_toStartOf="@+id/linearLayout33"
+        android:layout_alignTop="@+id/view32"
+        android:layout_toLeftOf="@+id/view33"
+        android:layout_toStartOf="@+id/view33"
         android:background="@android:color/background_dark"
         android:orientation="horizontal">
 
     </View>
 
     <View
-        android:id="@+id/linearLayout33"
+        android:id="@+id/view33"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_below="@+id/linearLayout32"
-        android:layout_alignLeft="@+id/linearLayout32"
-        android:layout_alignStart="@+id/linearLayout32">
+        android:layout_below="@+id/view32"
+        android:layout_alignLeft="@+id/view32"
+        android:layout_alignStart="@+id/view32">
 
     </View>
 
     <View
-        android:id="@+id/linearLayout32"
+        android:id="@+id/view32"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout19"
-        android:layout_alignLeft="@+id/linearLayout22"
-        android:layout_alignStart="@+id/linearLayout22">
+        android:layout_alignTop="@+id/view19"
+        android:layout_alignLeft="@+id/view22"
+        android:layout_alignStart="@+id/view22">
 
     </View>
 
     <View
-        android:id="@+id/linearLayout35"
+        android:id="@+id/view35"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_above="@+id/linearLayout16"
-        android:layout_alignLeft="@+id/linearLayout16"
-        android:layout_alignStart="@+id/linearLayout16"
+        android:layout_above="@+id/view16"
+        android:layout_alignLeft="@+id/view16"
+        android:layout_alignStart="@+id/view16"
         android:background="@android:color/background_dark"
         android:orientation="horizontal">
 
@@ -163,7 +163,7 @@
         android:orientation="horizontal"></View>
 
     <View
-        android:id="@+id/linearLayout25"
+        android:id="@+id/view25"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
@@ -193,7 +193,7 @@
         android:layout_toEndOf="@+id/linearLayout24"></View>
 
     <View
-        android:id="@+id/linearLayout22"
+        android:id="@+id/view22"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
@@ -213,7 +213,7 @@
         android:layout_toEndOf="@+id/linearLayout30"></View>
 
     <View
-        android:id="@+id/linearLayout20"
+        android:id="@+id/View20"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
@@ -223,7 +223,7 @@
         android:layout_toStartOf="@+id/linearLayout28"></View>
 
     <View
-        android:id="@+id/linearLayout19"
+        android:id="@+id/view19"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
@@ -263,7 +263,7 @@
         android:layout_toStartOf="@+id/linearLayoutCentre"></View>
 
     <View
-        android:id="@+id/linearLayout16"
+        android:id="@+id/view16"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
