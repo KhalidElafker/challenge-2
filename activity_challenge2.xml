@@ -15,9 +15,7 @@
         android:orientation="horizontal"
         android:layout_below="@+id/View37"
         android:layout_alignLeft="@+id/View36"
-        android:layout_alignStart="@+id/View36">
-
-    </View>
+        android:layout_alignStart="@+id/View36"/>
 
     <View
         android:id="@+id/View37"
@@ -27,9 +25,7 @@
         android:layout_toEndOf="@+id/View36"
         android:layout_toRightOf="@+id/View36"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal">
-
-    </View>
+        android:orientation="horizontal"/>
 
     <View
         android:id="@+id/View36"
@@ -39,9 +35,7 @@
         android:layout_alignStart="@+id/View20"
         android:layout_alignTop="@+id/view25"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal">
-
-    </View>
+        android:orientation="horizontal"/>
 
     <View
         android:id="@+id/view38"
@@ -51,9 +45,7 @@
         android:layout_toLeftOf="@+id/view33"
         android:layout_toStartOf="@+id/view33"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal">
-
-    </View>
+        android:orientation="horizontal"/>
 
     <View
         android:id="@+id/view33"
@@ -63,9 +55,7 @@
         android:orientation="horizontal"
         android:layout_below="@+id/view32"
         android:layout_alignLeft="@+id/view32"
-        android:layout_alignStart="@+id/view32">
-
-    </View>
+        android:layout_alignStart="@+id/view32"/>
 
     <View
         android:id="@+id/view32"
@@ -75,9 +65,7 @@
         android:orientation="horizontal"
         android:layout_alignTop="@+id/view19"
         android:layout_alignLeft="@+id/view22"
-        android:layout_alignStart="@+id/view22">
-
-    </View>
+        android:layout_alignStart="@+id/view22"/>
 
     <View
         android:id="@+id/view35"
@@ -87,80 +75,78 @@
         android:layout_alignLeft="@+id/view16"
         android:layout_alignStart="@+id/view16"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal">
-
-    </View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout34"
+        android:id="@+id/view34"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_above="@+id/linearLayout18"
-        android:layout_alignLeft="@+id/linearLayout18"
-        android:layout_alignStart="@+id/linearLayout18"></View>
+        android:layout_above="@+id/view18"
+        android:layout_alignLeft="@+id/view18"
+        android:layout_alignStart="@+id/view18"/>
 
     <View
-        android:id="@+id/linearLayout31"
+        android:id="@+id/view31"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_below="@+id/linearLayout34"
-        android:layout_toLeftOf="@+id/linearLayout18"
-        android:layout_toStartOf="@+id/linearLayout18"></View>
+        android:layout_below="@+id/view34"
+        android:layout_toLeftOf="@+id/view18"
+        android:layout_toStartOf="@+id/view18"/>
 
     <View
-        android:id="@+id/linearLayout30"
+        android:id="@+id/view30"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_alignLeft="@+id/linearLayout26"
-        android:layout_alignStart="@+id/linearLayout26"
-        android:layout_below="@+id/linearLayoutCentre"
+        android:layout_alignLeft="@+id/view26"
+        android:layout_alignStart="@+id/view26"
+        android:layout_below="@+id/viewCentre"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout29"
+        android:id="@+id/view29"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_below="@+id/linearLayout30"
+        android:layout_below="@+id/view30"
         android:layout_marginLeft="5dp"
-        android:layout_toLeftOf="@+id/linearLayout30"
-        android:layout_toStartOf="@+id/linearLayout30"
+        android:layout_toLeftOf="@+id/view30"
+        android:layout_toStartOf="@+id/view30"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout28"
+        android:id="@+id/view28"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_alignTop="@+id/linearLayout24"
-        android:layout_toLeftOf="@+id/linearLayoutCentre"
-        android:layout_toStartOf="@+id/linearLayoutCentre"
+        android:layout_alignTop="@+id/view24"
+        android:layout_toLeftOf="@+id/viewCentre"
+        android:layout_toStartOf="@+id/viewCentre"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout27"
+        android:id="@+id/view27"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_below="@+id/linearLayout28"
-        android:layout_toLeftOf="@+id/linearLayout28"
-        android:layout_toStartOf="@+id/linearLayout28"></View>
+        android:layout_below="@+id/view28"
+        android:layout_toLeftOf="@+id/view28"
+        android:layout_toStartOf="@+id/view28"/>
 
     <View
-        android:id="@+id/linearLayout26"
+        android:id="@+id/view26"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_above="@+id/linearLayoutCentre"
-        android:layout_toEndOf="@+id/linearLayout14"
-        android:layout_toRightOf="@+id/linearLayout14"
+        android:layout_above="@+id/viewCentre"
+        android:layout_toEndOf="@+id/view14"
+        android:layout_toRightOf="@+id/view14"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
         android:id="@+id/view25"
@@ -168,29 +154,29 @@
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_above="@+id/linearLayout26"
-        android:layout_toLeftOf="@+id/linearLayout26"
-        android:layout_toStartOf="@+id/linearLayout26"></View>
+        android:layout_above="@+id/view26"
+        android:layout_toLeftOf="@+id/view26"
+        android:layout_toStartOf="@+id/view26"/>
 
     <View
-        android:id="@+id/linearLayout24"
+        android:id="@+id/view24"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_below="@+id/linearLayout13"
-        android:layout_toEndOf="@+id/linearLayoutCentre"
-        android:layout_toRightOf="@+id/linearLayoutCentre"
+        android:layout_below="@+id/view13"
+        android:layout_toEndOf="@+id/viewCentre"
+        android:layout_toRightOf="@+id/viewCentre"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout23"
+        android:id="@+id/view23"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_below="@+id/linearLayout24"
-        android:layout_toRightOf="@+id/linearLayout24"
-        android:layout_toEndOf="@+id/linearLayout24"></View>
+        android:layout_below="@+id/view24"
+        android:layout_toRightOf="@+id/view24"
+        android:layout_toEndOf="@+id/view24"/>
 
     <View
         android:id="@+id/view22"
@@ -198,19 +184,19 @@
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_above="@+id/linearLayout24"
-        android:layout_toRightOf="@+id/linearLayout24"
-        android:layout_toEndOf="@+id/linearLayout24"></View>
+        android:layout_above="@+id/view24"
+        android:layout_toRightOf="@+id/view24"
+        android:layout_toEndOf="@+id/view24"/>
 
     <View
-        android:id="@+id/linearLayout21"
+        android:id="@+id/view21"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_below="@+id/linearLayout30"
-        android:layout_toRightOf="@+id/linearLayout30"
-        android:layout_toEndOf="@+id/linearLayout30"></View>
+        android:layout_below="@+id/view30"
+        android:layout_toRightOf="@+id/view30"
+        android:layout_toEndOf="@+id/view30"/>
 
     <View
         android:id="@+id/View20"
@@ -218,9 +204,9 @@
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_above="@+id/linearLayout28"
-        android:layout_toLeftOf="@+id/linearLayout28"
-        android:layout_toStartOf="@+id/linearLayout28"></View>
+        android:layout_above="@+id/view28"
+        android:layout_toLeftOf="@+id/view28"
+        android:layout_toStartOf="@+id/view28"/>
 
     <View
         android:id="@+id/view19"
@@ -228,39 +214,37 @@
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_above="@+id/linearLayout26"
-        android:layout_toRightOf="@+id/linearLayout26"
-        android:layout_toEndOf="@+id/linearLayout26"></View>
+        android:layout_above="@+id/view26"
+        android:layout_toRightOf="@+id/view26"
+        android:layout_toEndOf="@+id/view26"/>
 
     <View
-        android:id="@+id/linearLayoutCentre"
+        android:id="@+id/viewCentre"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout18"
+        android:id="@+id/view18"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout21"
-        android:layout_alignLeft="@+id/linearLayout23"
-        android:layout_alignStart="@+id/linearLayout23">
-
-    </View>
+        android:layout_alignTop="@+id/view21"
+        android:layout_alignLeft="@+id/view23"
+        android:layout_alignStart="@+id/view23"/>
 
     <View
-        android:id="@+id/linearLayout17"
+        android:id="@+id/view17"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout29"
-        android:layout_toLeftOf="@+id/linearLayoutCentre"
-        android:layout_toStartOf="@+id/linearLayoutCentre"></View>
+        android:layout_alignTop="@+id/view29"
+        android:layout_toLeftOf="@+id/viewCentre"
+        android:layout_toStartOf="@+id/viewCentre"/>
 
     <View
         android:id="@+id/view16"
@@ -268,169 +252,162 @@
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout17"
-        android:layout_toLeftOf="@+id/linearLayout17"
-        android:layout_toStartOf="@+id/linearLayout17"></View>
+        android:layout_alignTop="@+id/view17"
+        android:layout_toLeftOf="@+id/view17"
+        android:layout_toStartOf="@+id/view17"/>
 
     <View
-        android:id="@+id/linearLayout14"
+        android:id="@+id/view14"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentTop="false"
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"
-        android:layout_toLeftOf="@+id/linearLayout7"
-        android:layout_toRightOf="@+id/linearLayout2"
+        android:layout_toLeftOf="@+id/view7"
+        android:layout_toRightOf="@+id/view2"
         android:background="@android:color/holo_red_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout15"
+        android:id="@+id/view15"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentBottom="true"
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"
-        android:layout_toLeftOf="@+id/linearLayout3"
-        android:layout_toRightOf="@+id/linearLayout4"
+        android:layout_toLeftOf="@+id/view3"
+        android:layout_toRightOf="@+id/view4"
         android:background="@android:color/holo_red_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout"
+        android:id="@+id/view"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout2"
+        android:id="@+id/view2"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout4"
+        android:id="@+id/view4"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="@android:color/holo_blue_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout3"
+        android:id="@+id/view3"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:background="@android:color/background_dark"
-        android:orientation="horizontal">
-    </View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout5"
+        android:id="@+id/view5"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:background="@android:color/holo_blue_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
     <View
-        android:id="@+id/linearLayout6"
+        android:id="@+id/view6"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true">
-    </View>
+        android:layout_alignParentEnd="true"/>
 
     <View
-        android:id="@+id/linearLayout7"
+        android:id="@+id/view7"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_alignLeft="@+id/linearLayout4"
+        android:layout_alignLeft="@+id/view4"
         android:layout_alignParentTop="true"
-        android:layout_alignStart="@+id/linearLayout4"
+        android:layout_alignStart="@+id/view4"
         android:background="@android:color/holo_blue_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout8"
+        android:id="@+id/view8"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_above="@+id/linearLayout"
+        android:layout_above="@+id/view"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/linearLayout9"
+        android:layout_below="@+id/view9"
         android:layout_marginBottom="5dp"
         android:layout_marginTop="5dp"
         android:background="@android:color/holo_green_light"
-        android:orientation="horizontal">
-
-    </View>
+        android:orientation="horizontal"/>
     <View
-        android:id="@+id/linearLayout9"
+        android:id="@+id/view9"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout5"
+        android:layout_alignTop="@+id/view5"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
-    </View>
+        android:layout_alignParentStart="true"/>
     <View
-        android:id="@+id/linearLayout10"
+        android:id="@+id/view10"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout5"
+        android:layout_alignTop="@+id/view5"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
-    </View>
+        android:layout_alignParentStart="true"/>
     <View
-        android:id="@+id/linearLayout11"
+        android:id="@+id/view11"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:background="@android:color/background_dark"
         android:orientation="horizontal"
-        android:layout_alignTop="@+id/linearLayout5"
+        android:layout_alignTop="@+id/view5"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
-    </View>
+        android:layout_alignParentStart="true"/>
 
     <View
-        android:id="@+id/linearLayout12"
+        android:id="@+id/view12"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_alignTop="@+id/linearLayout5"
+        android:layout_alignTop="@+id/view5"
         android:background="@android:color/holo_blue_dark"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 
     <View
-        android:id="@+id/linearLayout13"
+        android:id="@+id/view13"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:layout_above="@+id/linearLayout5"
+        android:layout_above="@+id/view5"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_below="@+id/linearLayout6"
+        android:layout_below="@+id/view6"
         android:layout_marginBottom="5dp"
         android:layout_marginTop="5dp"
         android:background="@android:color/holo_green_light"
-        android:orientation="horizontal"></View>
+        android:orientation="horizontal"/>
 </RelativeLayout>
